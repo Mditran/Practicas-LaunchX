@@ -5,6 +5,10 @@ Primer practica "Diseño UX/UI"
 
 Segunda practica "Diseño pagina web"
 
+Repositorio: https://github.com/Mditran/landing-vacunacion
+
+Despliegue: 
+
 
 Tercer practica "Pokedex de Kalos"
 
