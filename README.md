@@ -7,7 +7,7 @@ Segunda practica "Diseño pagina web"
 
 Repositorio: https://github.com/Mditran/landing-vacunacion
 
-Despliegue: 
+Despliegue: https://mditran.github.io/landing-vacunacion/
 
 
 Tercer practica "Pokedex de Kalos"
